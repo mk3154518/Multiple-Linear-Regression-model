@@ -134,9 +134,3 @@ cd toyota-corolla-price-prediction</code></pre>
   <li>Hyperparameter tuning</li>
   <li>Feature engineering</li>
 </ul>
-
-<h2>🙋‍♂️ Author</h2>
-<p><strong>MARUBOTHULA</strong><br>
-Aspiring Data Analyst & Full Stack Developer<br>
-📍 Bengaluru, India<br>
-🔗 <a href="https://www.linkedin.com/">LinkedIn</a> | <a href="https://github.com/your-username">Portfolio</a></p>
