@@ -120,7 +120,7 @@
 cd toyota-corolla-price-prediction</code></pre>
   </li>
   <li>Install dependencies:
-    <pre><code>pip install -r requirements.txt</code></pre>
+    <pre><code>pip install -r requirements.md</code></pre>
   </li>
   <li>Run the notebook:
     <pre><code>jupyter notebook ToyotaCorolla_MLR_Analysis.ipynb</code></pre>
