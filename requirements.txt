@@ -1,7 +1,9 @@
 <h1>Requirements</h1>
+<pre><code>
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 statsmodels
+</code></pre>
