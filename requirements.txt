@@ -1,0 +1,7 @@
+<h1>Requirements</h1>
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
